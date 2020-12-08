@@ -1,2 +1,2 @@
-# COP4710_Project_Frontend
+# COP4710_EventApp
 Created with CodeSandbox
